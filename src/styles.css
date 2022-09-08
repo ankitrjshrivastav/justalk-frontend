@@ -1,0 +1,12 @@
+body {
+    background:
+    linear-gradient(
+      rgba(18, 45, 119, 0.3), 
+      rgba(126, 190, 241, 0.3)
+    )
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
